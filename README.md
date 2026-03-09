@@ -1,4 +1,4 @@
-# "I prefer PHP for the backend,"
+# "I prefer Node.js for the backend,"
 "IT Professional - Morocco"
 
 3 technical goals for this bootcamp:
